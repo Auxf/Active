@@ -1,0 +1,376 @@
+﻿Entités ;BU;Fournisseurs;Objet ;Montants;Théorique ;Confirmé;Nbr de jour de retard;Urgence ;Commentaires ;Marque 
+01. ACT - Holding FR;Activate ;;Charges sociales ;4760;16/08/2025;15/08/2025;-1;Important ;;Activate 
+01. ACT - Holding FR;Activate ;;Salaires ;3820;27/07/2025;25/07/2025;-2;Bloquant ;;Activate 
+01. ECL - Lyon;ECL;Emissive ;Redevance ;52971,14;11/06/2025;15/08/2025;65;Important ;On doit pouvoir kill;ECL
+01. ECL - Lyon;ECL;Emissive ;Redevance ;76052,76;10/07/2025;25/07/2025;15;Important;;ECL
+01. ECL - Lyon;ECL;;Salaires ;25000;27/07/2025;25/07/2025;-2;Bloquant ;;ECL
+01. Explore Lab BCN;ELA;ZIG ZAG Soluciones ;CAPEX;96800;21/07/2025;25/07/2025;4;;;ELA
+01. Explore Lab BCN;ELA;ZIG ZAG Soluciones ;CAPEX;148891;25/07/2025;01/08/2025;7;;;ELA
+01. Explore Lab BCN;ELA;JorG;Opex;8400;18/07/2025;25/07/2025;7;;;ELA
+01. Explore Lab BCN;ELA;Klox;Marketing offline;8765;30/06/2025;25/07/2025;25;;;ELA
+01. Explore Lab BCN;ELA;Klox;Marketing offline;8765;25/07/2025;01/08/2025;7;;;ELA
+01. Explore Lab BCN;ELA;;Merch ;36000;30/06/2025;25/07/2025;25;;;ELA
+01. FBA - Bretigny;FBA;;Charges sociales ;7000;16/08/2025;22/08/2025;6;Important ;;FBA
+01. FBA - Bretigny;FBA;Odysseum ;Capex;5502,22;10/07/2025;01/08/2025;22;;;FBA
+01. FBA - Bretigny;FBA;Odysseum ;Capex;62281,9;10/07/2025;01/08/2025;22;;;FBA
+01. FBA - Bretigny;FBA;Odysseum ;Capex;8445,32;10/07/2025;01/08/2025;22;;;FBA
+01. FBA - Bretigny;FBA;Odysseum ;Capex;16890,64;10/07/2025;01/08/2025;22;;;FBA
+01. FBA - Bretigny;FBA;Wee technology;Capex;6211,09;17/06/2025;25/07/2025;38;;;FBA
+01. FBA - Bretigny;FBA;Klépierre ;Loyer ;23525,04;01/07/2025;08/08/2025;38;Faible ;;FBA
+01. FBA - Bretigny;FBA;Klépierre ;Loyer ;23525,04;01/07/2025;05/09/2025;66;Faible ;;FBA
+01. FBA - Bretigny;FBA;Altiplano;Maintenance ;5940;02/07/2025;25/07/2025;23;Faible ;;FBA
+01. FBA - Bretigny;FBA;;Salaires ;11500;27/07/2025;25/07/2025;-2;Bloquant ;;FBA
+01. GF - Holding;GF;;Charges sociales ;49000;16/08/2025;15/08/2025;-1;Important ;;GF
+01. GF - Holding;GF;;Salaires ;59500;27/07/2025;25/07/2025;-2;Bloquant ;;GF
+01. GF - Holding;GF;;Loyer ;7200;01/08/2025;01/08/2025;0;Important ;;GF
+01. GF - Holding;GF;;Loyer ;7200;05/09/2025;05/09/2025;0;Important ;;GF
+01. GF - Holding;GF;;Charges sociales ;13000;16/08/2025;15/08/2025;-1;Important ;;GF
+01. IQ CONCEPT SAS ;KOE;Second œuvre;CAPEX;67357;15/07/2025;01/08/2025;17;Faible ;;KOE
+01. IQ CONCEPT SAS ;KOE;Second œuvre;CAPEX;67357;15/07/2025;29/08/2025;45;Faible ;;KOE
+01. IQ CONCEPT SAS ;KOE;Capex ;CAPEX;73190;21/07/2025;01/08/2025;11;Faible ;;KOE
+01. IQ CONCEPT SAS ;KOE;Capex ;CAPEX;73190;17/08/2025;22/08/2025;5;Faible ;;KOE
+01. IQ CONCEPT SAS ;KOE;Loyer ;Loyer ;50402;05/08/2025;08/08/2025;3;Important ;;KOE
+01. IQ CONCEPT SAS ;KOE;Loyer ;Loyer ;55267;05/08/2025;08/08/2025;3;Important ;;KOE
+01. IQ CONCEPT SAS ;KOE;;Salaires ;35922;25/08/2025;29/08/2025;4;Bloquant ;;KOE
+01. IQ CONCEPT SAS ;KOE;;Salaires ;36312;25/08/2025;29/08/2025;4;Bloquant ;;KOE
+01. IQ CONCEPT SAS ;KOE;;Salaires ;39880;25/08/2025;29/08/2025;4;Bloquant ;;KOE
+01. IQ CONCEPT SAS ;KOE;;Salaires ;51440;25/08/2025;29/08/2025;4;Bloquant ;;KOE
+01. IQ CONCEPT SAS ;KOE;Urssaf ;Charges sociales ;16856;06/08/2025;08/08/2025;2;Important ;;KOE
+01. IQ CONCEPT SAS ;KOE;Urssaf ;Charges sociales ;20197;06/08/2025;08/08/2025;2;Important ;;KOE
+01. IQ CONCEPT SAS ;KOE;Urssaf ;Charges sociales ;29348;06/08/2025;08/08/2025;2;Important ;;KOE
+01. IQ CONCEPT SAS ;KOE;Urssaf ;Charges sociales ;17357;13/08/2025;15/08/2025;2;Important ;;KOE
+01. SPA - Fontaine dvpt;SP;;Charges sociales ;24000;16/08/2025;15/08/2025;-1;Important ;;SP
+01. SPA - Fontaine dvpt;SP;SCI Connex ;Loyer ;50016,29;01/07/2025;08/08/2025;38;Important ;;SP
+01. SPA - Fontaine dvpt;SP;;Salaires ;35500;27/07/2025;25/07/2025;-2;Bloquant ;;SP
+01.LKS - Holding FR;Social Group ;Fournisseurs divers ;CAPEX;25000;15/07/2025;01/08/2025;17;Faible ;;Social Group 
+01.LKS - Holding FR;Social Group ;B3 Designers ;CAPEX;20931,183;02/07/2025;25/07/2025;23;;;Social Group 
+01.LKS - Holding FR;Social Group ;B3 Designers ;CAPEX;9416,745;13/06/2025;25/07/2025;42;;;Social Group 
+01.LKS - Holding FR;Social Group ;Licence 4;CAPEX;12000;15/07/2025;01/08/2025;17;Faible ;;Social Group 
+01.LKS - Holding FR;Social Group ;;Charges sociales ;8500;16/08/2025;15/08/2025;-1;Important ;;Social Group 
+01.LKS - Holding FR;Social Group ;;Salaires ;6500;27/07/2025;25/07/2025;-2;Bloquant ;;Social Group 
+02. ACT VDE;Activate ;Borry ;CAPEX;9769,68;06/08/2025;08/08/2025;2;;;Activate 
+02. ACT VDE;Activate ;Aie Electricite ;CAPEX;44634,25;30/06/2025;25/07/2025;25;;;Activate 
+02. ACT VDE;Activate ;Activate Games CA;Matériel ;520000;20/07/2025;08/08/2025;19;Faible ;;Activate 
+02. ACT VDE;Activate ;Debarras Express ;CAPEX;109103,9;07/08/2025;08/08/2025;1;Important ;;Activate 
+02. ACT VDE;Activate ;BORRY ;CAPEX;12284,47;27/07/2025;01/08/2025;5;Faible ;;Activate 
+02. ACT VDE;Activate ;FAB RESO ;CAPEX;10695,6;19/07/2025;25/07/2025;6;Faible ;;Activate 
+02. ACT VDE;Activate ;RML ;Capex;6210,22;31/08/2025;05/09/2025;5;;;Activate 
+02. ACT VDE;Activate ;Johnson Control ;CAPEX;11773,8;26/08/2025;29/08/2025;3;;;Activate 
+02. Alphitonia Europe  SL;ELA;Social Club;Marketing offline;9850;15/07/2025;25/07/2025;;;;ELA
+02. Alphitonia Europe  SL;ELA;Giroir & Roul;CAPEX;9050;07/07/2025;25/07/2025;18;;;ELA
+02. Alphitonia Europe  SL;ELA;EPP;Honos ;12971;30/06/2025;25/07/2025;;;;ELA
+02. Alphitonia Europe  SL;ELA;Giroir & Roul;CAPEX;6000;15/07/2025;25/07/2025;10;;;ELA
+02. ECL - Paris;ECL;Emissive ;Redevance ;95398,8;10/07/2025;25/07/2025;15;Important;;ECL
+02. ECL - Paris;ECL;Emissive ;Redevance ;75455,88;10/08/2025;08/08/2025;-2;Important;;ECL
+02. ECL - Paris;ECL;;Charges sociales ;8000;16/08/2025;15/08/2025;-1;Important;;ECL
+02. ECL - Paris;ECL;;Salaires ;19500;27/07/2025;25/07/2025;-2;Bloquant ;;ECL
+02. FBA - Montpellier;FBA;;Charges sociales ;6500;16/08/2025;15/08/2025;-1;Important ;;FBA
+02. FBA - Montpellier;FBA;;Salaires ;11500;27/06/2025;25/07/2025;28;Bloquant ;;FBA
+02. GF - Macon;GF;;Charges sociales ;11000;16/08/2025;15/08/2025;-1;Important ;;GF
+02. GF - Macon;GF;;Impots ;16222;24/07/2025;25/07/2025;1;Important ;;GF
+02. GF - Macon;GF;;Salaires ;17500;27/07/2025;25/07/2025;-2;Bloquant ;;GF
+02. SPA - Conflans;SP;;Charges sociales ;40000;16/08/2025;15/08/2025;-1;Important ;;SP
+02. SPA - Conflans;SP;BFE ;Capex;7836;23/07/2025;25/07/2025;;;;SP
+02. SPA - Conflans;SP;;Salaires ;57500;27/07/2025;25/07/2025;-2;Bloquant ;;SP
+03. ECL - Bordeaux;ECL;;Loyer ;69895,62;01/07/2025;25/07/2025;24;Important ;;ECL
+03. ECL - Bordeaux;ECL;Emissive ;Redevance ;49693,74;11/07/2025;25/07/2025;14;Important ;;ECL
+03. ECL - Bordeaux;ECL;Emissive ;Redevance ;31730,95;11/07/2025;08/08/2025;28;Important ;;ECL
+03. ECL - Bordeaux;ECL;;Salaires ;20000;27/07/2025;25/07/2025;-2;Bloquant ;;ECL
+03. Explore Lab FR;ELA;Icebreaker ;Capex;314258;30/06/2025;25/07/2025;25;;200k€ ;ELA
+03. Explore Lab FR;ELA;G2V;Capex;163355;18/07/2025;25/07/2025;7;;;ELA
+03. Explore Lab FR;ELA;S-Group ;CAPEX;208963;25/07/2025;25/07/2025;0;;;ELA
+03. Explore Lab FR;ELA;ZIG ZAG Soluciones ;CAPEX;118992;15/07/2025;08/08/2025;24;;;ELA
+03. Explore Lab FR;ELA;ZIG ZAG Soluciones ;CAPEX;88036;15/07/2025;01/08/2025;17;;;ELA
+03. Explore Lab FR;ELA;ATC ;CAPEX;14760;15/07/2025;25/07/2025;10;;;ELA
+03. FBA - Velizy;FBA;;Charges sociales ;7500;16/08/2025;15/08/2025;-1;Important ;;FBA
+03. FBA - Velizy;FBA;Spring ;Loyer ;22232,78;01/07/2025;08/08/2025;38;Faible ;;FBA
+03. FBA - Velizy;FBA;Spring ;Loyer ;22232,78;01/07/2025;15/08/2025;45;Faible ;;FBA
+03. FBA - Velizy;FBA;;Salaires ;11500;27/07/2025;25/07/2025;-2;Bloquant ;;FBA
+03. GF - 42;GF;;Charges sociales ;5500;16/08/2025;15/08/2025;-1;Important ;;GF
+03. GF - 42;GF;;Loyer ;13537;04/07/2025;01/08/2025;28;Important ;;GF
+03. GF - 42;GF;;Loyer ;13537;04/07/2025;05/09/2025;63;Important ;;GF
+03. GF - 42;GF;;Salaires ;9000;27/07/2025;25/07/2025;-2;Bloquant ;;GF
+03. KSP ;KOE;;Salaires ;52037;25/08/2025;29/08/2025;4;Bloquant ;;KOE
+03. KSP ;KOE;Urssaf ;Charges sociales ;29205;13/08/2025;15/08/2025;2;Important ;;KOE
+03. KSP ;KOE;Impots ;Impots ;171712;20/07/2025;01/08/2025;12;;;KOE
+03. SPA - Torcy;SP;;Charges sociales ;9000;16/08/2025;15/08/2025;-1;Important ;;SP
+03. SPA - Torcy;SP;;Salaires ;15500;27/07/2025;25/07/2025;-2;Bloquant ;;SP
+03. SPA - Torcy;SP;;Loyer ;51263,52;11/06/2025;25/07/2025;44;Important ;;SP
+03. SPA - Torcy;SP;;Loyer ;28588,15;01/07/2025;01/08/2025;31;Important ;;SP
+03. SPA - Torcy;SP;;Loyer ;28588,15;01/07/2025;25/07/2025;24;Important ;;SP
+03. SPA - Torcy;SP;;Loyer ;28588,15;01/07/2025;05/09/2025;66;Important ;;SP
+04. ECL - Imex UK;ECL ;Hollywood monster ;CAPEX;10916,33;02/12/2024;01/08/2025;242;Faible ;;ECL
+04. FBA - Angers;FBA;;Charges sociales ;4500;16/08/2025;15/08/2025;-1;Important ;;FBA
+04. FBA - Angers;FBA;;Salaires ;10523,88;27/07/2025;25/07/2025;-2;Bloquant ;;FBA
+04. GF - Beaune;GF;;Charges sociales ;7500;16/08/2025;15/08/2025;-1;Important ;;GF
+04. GF - Beaune;GF;;Loyer ;17000;01/08/2025;01/08/2025;0;Important ;;GF
+04. GF - Beaune;GF;;Loyer ;17000;05/09/2025;05/09/2025;0;Important ;;GF
+04. GF - Beaune;GF;;Salaires ;12500;27/07/2025;25/07/2025;-2;Bloquant ;;GF
+04. SPA - Tourcoing;SP;;Charges sociales ;13000;16/08/2025;15/08/2025;-1;Important ;;SP
+04. SPA - Tourcoing;SP;Nhood;Loyer ;16258,1;01/07/2025;08/08/2025;38;Important ;;SP
+04. SPA - Tourcoing;SP;Nhood;Loyer ;16258,1;01/07/2025;05/09/2025;66;Important ;;SP
+04. SPA - Tourcoing;SP;;Salaires ;17500;27/07/2025;25/07/2025;-2;Bloquant ;;SP
+05. FBA - Val d'Europe;FBA;;Charges sociales ;6500;16/08/2025;15/08/2025;-1;Important ;;FBA
+05. FBA - Val d'Europe;FBA;;Salaires ;11000;27/07/2025;25/07/2025;-2;Bloquant ;;FBA
+05. GF - Metz Kart Indoor;GF;;Charges sociales ;21500;16/08/2025;15/08/2025;-1;Important ;;GF
+05. GF - Metz Kart Indoor;GF;;Loyer ;6868,666667;01/08/2025;01/08/2025;0;Important ;;GF
+05. GF - Metz Kart Indoor;GF;;Loyer ;6868,666667;05/09/2025;05/09/2025;0;Important ;;GF
+05. GF - Metz Kart Indoor;GF;;Salaires ;27500;27/07/2025;25/07/2025;-2;Bloquant ;;GF
+05. IQKBE;KOE;;Salaires ;45746;25/08/2025;29/08/2025;4;Bloquant ;;KOE
+05. IQKBE;KOE;Loyer ;Loyer ;65777;05/08/2025;08/08/2025;3;Important ;;KOE
+05. IQKBE;KOE;Urssaf;Charges sociales ;16000;02/08/2025;08/08/2025;6;Important ;;KOE
+05. IQKBE;KOE;Urssaf ;Charges sociales ;7558;04/08/2025;08/08/2025;4;Important ;;KOE
+05. SPA - Chambly;SP;;Charges sociales ;7500;16/08/2025;15/08/2025;-1;Important ;;SP
+05. SPA - Chambly;SP;;Loyer ;25761,37333;11/07/2025;01/08/2025;21;Faible ;;SP
+05. SPA - Chambly;SP;;Loyer ;25761,37333;11/07/2025;05/09/2025;56;Faible ;;SP
+05. SPA - Chambly;SP;;Salaires ;14500;27/07/2025;25/07/2025;-2;Bloquant ;;SP
+06. ECL - Imex NY;ECL ;Picture perfect ;Marketing offline;6500;03/07/2025;25/07/2025;22;;;ECL
+06. ECL - Imex NY;ECL ;Emissive ;Redevance ;48885,35;10/07/2025;25/07/2025;15;;;ECL
+06. ECL - Imex NY;ECL ;;Salaires ;14000;24/07/2025;25/07/2025;1;Bloquant ;;ECL
+06. ECL - Imex NY;ECL ;;Salaires ;14000;31/07/2025;01/08/2025;1;Bloquant ;;ECL
+06. ECL - Imex NY;ECL ;;Salaires ;14000;07/08/2025;08/08/2025;1;Bloquant ;;ECL
+06. ECL - Imex NY;ECL ;;Salaires ;14000;14/08/2025;15/08/2025;1;Bloquant ;;ECL
+06. FBA - Grenoble (x1);FBA;;Charges sociales ;6000;16/08/2025;22/08/2025;6;Important ;;FBA
+06. FBA - Grenoble (x1);FBA;;Salaires ;10500;27/07/2025;25/07/2025;-2;Bloquant ;;FBA
+06. SPA - Angers;SP;;Charges sociales ;19000;16/08/2025;15/08/2025;-1;Important ;;SP
+06. SPA - Angers;SP;Apex ;Abonnement annuel ;5616;31/07/2025;01/08/2025;1;;;SP
+06. SPA - Angers;SP;Sodikart;Capex;6057,62;06/06/2025;25/07/2025;49;;;SP
+06. SPA - Angers;SP;Megazone;Capex;6000;01/08/2025;01/08/2025;0;;;SP
+06. SPA - Angers;SP;Vinci;Capex;6942;01/08/2025;01/08/2025;0;;;SP
+06. SPA - Angers;SP;;Salaires ;30500;27/07/2025;25/07/2025;-2;Bloquant ;;SP
+07. ECL - Atlanta;ECL;Jade ;Honos ;5500;30/06/2025;25/07/2025;25;Faible ;;ECL
+07. ECL - Atlanta;ECL;Jade ;Honos ;10015,01;31/03/2025;25/07/2025;116;Faible ;;ECL
+07. FBA - Bordeaux;FBA;SUP BTP;Capex;5328;16/07/2025;25/07/2025;9;;;FBA
+07. FBA - Bordeaux;FBA;Easing ;CAPEX;17651,99;06/06/2025;25/07/2025;49;Faible ;;FBA
+07. FBA - Bordeaux;FBA;Actif agencement ;Capex;8775,01;30/07/2025;08/08/2025;9;;;FBA
+07. FBA - Bordeaux;FBA;Actif agencement ;CAPEX;7020;27/06/2025;01/08/2025;35;;;FBA
+07. FBA - Bordeaux;FBA;Actif agencement ;CAPEX;8602,56;15/06/2025;25/07/2025;40;Faible ;;FBA
+07. FBA - Bordeaux;FBA;Holotek ;CAPEX;10293,6;25/06/2025;25/07/2025;30;Faible ;;FBA
+07. FBA - Bordeaux;FBA;Promosol ;CAPEX;5460;27/06/2025;01/08/2025;35;Faible ;;FBA
+07. FBA - Bordeaux;FBA;Promosol ;CAPEX;5826,68;27/06/2025;01/08/2025;35;Faible ;;FBA
+07. FBA - Bordeaux;FBA;Promosol ;CAPEX;6240;27/06/2025;01/08/2025;35;Faible ;;FBA
+07. FBA - Bordeaux;FBA;Promosol ;CAPEX;5460;27/06/2025;25/07/2025;28;;;FBA
+07. FBA - Bordeaux;FBA;Legendry;CAPEX;18444,06;31/07/2025;15/08/2025;15;Faible ;;FBA
+07. FBA - Bordeaux;FBA;Legendry;CAPEX;16313,44;31/07/2025;15/08/2025;15;Faible ;;FBA
+07. FBA - Bordeaux;FBA;Altiplano ;CAPEX;176399,1;04/08/2025;15/08/2025;11;Bloquant ;;FBA
+07. FBA - Bordeaux;FBA;Holotek ;Capex;10293,6;25/06/2025;25/07/2025;30;;;FBA
+07. FBA - Bordeaux;FBA;FSET ;Capex;19920,6;18/07/2025;01/08/2025;14;;;FBA
+07. FBA - Bordeaux;FBA;Wee technology;Capex;11929,25;30/07/2025;01/08/2025;2;;;FBA
+07. GF - 71100;GF;;Charges sociales ;4500;16/08/2025;15/08/2025;-1;Important ;;GF
+07. GF - 71100;GF;;Salaires ;8000;27/07/2025;25/07/2025;-2;Bloquant ;;GF
+07. GF - 71100 Chalon sur Saône;GF;;Loyer ;19404,66667;01/08/2025;08/08/2025;7;Important ;;GF
+07. GF - 71100 Chalon sur Saône;GF;;Loyer ;19404,66667;05/09/2025;05/09/2025;0;Important ;;GF
+07. SPA - Bordeaux;SP;Declerck ;CAPEX;47400;17/06/2025;25/07/2025;38;Important;;SP
+07. SPA - Bordeaux;SP;Declerck ;CAPEX;18600;17/06/2025;25/07/2025;38;Important;;SP
+07. SPA - Bordeaux;SP;Ortalissa;CAPEX;242722,51;07/04/2025;01/08/2025;116;Important;;SP
+07. SPA - Bordeaux;SP;SMEF ;CAPEX;8532;15/08/2025;15/08/2025;0;;Traite;SP
+07. SPA - Bordeaux;SP;SMEF ;CAPEX;25596;15/08/2025;25/07/2025;-21;;Traite;SP
+07. SPA - Bordeaux;SP;BSM ;CAPEX;29817,12;30/07/2025;08/08/2025;9;;;SP
+07. SPA - Bordeaux;SP;Plast it ;CAPEX;15312;30/07/2025;25/07/2025;-5;;;SP
+07. SPA - Bordeaux;SP;Varonia ;Capex;18946,8;22/07/2025;08/08/2025;17;;;SP
+07. SPA - Bordeaux;SP;BFE;Capex;60572,6;16/07/2025;25/07/2025;9;;;SP
+07. SPA - Bordeaux;SP;Antalzic ;Capex;84703,2;16/07/2025;25/07/2025;9;;;SP
+07. SPA - Bordeaux;SP;XPLOSE;Capex;47502;25/07/2025;25/07/2025;0;;;SP
+07. SPA - Bordeaux;SP;XPLOSE;Capex;9390,96;12/07/2025;08/08/2025;27;;;SP
+07. SPA - Bordeaux;SP;SCCV Ortalissa;Capex;27476,24;12/07/2025;08/08/2025;27;;;SP
+07. SPA - Bordeaux;SP;Artek;Capex;111686,47;25/07/2025;25/07/2025;0;;;SP
+07. SPA - Bordeaux;SP;360;Capex;11906,66;07/05/2025;08/08/2025;93;;;SP
+07. SPA - Bordeaux;SP;360;Capex;51408;08/05/2025;08/08/2025;92;;;SP
+07. SPA - Bordeaux;SP;Supreme;Capex;19236,6;05/06/2025;15/08/2025;71;;;SP
+07. SPA - Bordeaux;SP;SMEF ;Capex;102384;26/06/2025;15/08/2025;50;;;SP
+07. SPA - Bordeaux;SP;SMEF ;CAPEX;8532;09/08/2025;08/08/2025;-1;;;SP
+07. SPA - Bordeaux;SP;SMEF ;CAPEX;25596;09/08/2025;15/08/2025;6;;Traite;SP
+07. SPA - Bordeaux;SP;;Charges sociales ;3000;16/08/2025;15/08/2025;-1;Important ;;SP
+07. SPA - Bordeaux;SP;;Loyer ;54755,27;01/07/2025;25/07/2025;24;Important ;;SP
+07. SPA - Bordeaux;SP;;Salaires ;3000;27/07/2025;25/07/2025;-2;Bloquant ;;SP
+08. ECL - Holding FR;ECL;Shea;CAPEX;11120;30/06/2025;01/08/2025;32;Faible ;;ECL
+08. ECL - Holding FR;ECL;TD Synnex ;CAPEX;115814,39;28/05/2025;08/08/2025;72;Important ;;ECL
+08. ECL - Holding FR;ECL;Silenzio;Marketing online;15000;30/07/2025;01/08/2025;;;;ECL
+08. ECL - Holding FR;ECL;Meta;Marketing online;30413,79;25/07/2025;25/07/2025;0;;;ECL
+08. ECL - Holding FR;ECL;;Salaires ;10000;27/07/2025;25/07/2025;-2;Bloquant ;;ECL
+08. GF - 10;GF;;Loyer ;25458;01/08/2025;01/08/2025;0;Important ;;GF
+08. GF - 10;GF;;Loyer ;25458;05/09/2025;05/09/2025;0;Important ;;GF
+08. GF - 10;GF;;Salaires ;17000;27/07/2025;25/07/2025;-2;Bloquant ;;GF
+09. ECL - Nantes;ECL;Easing ;CAPEX;27720;27/06/2025;01/08/2025;35;Faible ;;ECL
+09. ECL - Nantes;ECL;Easing ;CAPEX;18900,12;27/06/2025;25/07/2025;28;Faible ;;ECL
+09. ECL - Nantes;ECL;Easing ;CAPEX;29570,78;06/06/2025;25/07/2025;49;Faible ;;ECL
+09. ECL - Nantes;ECL;Froid Chaud ;CAPEX;9956,99;24/07/2025;25/07/2025;1;Faible ;;ECL
+09. ECL - Nantes;ECL;Actif agencement ;CAPEX;6022,8;03/07/2025;25/07/2025;22;Important ;;ECL
+09. ECL - Nantes;ECL;Mobilium ;Capex;10491,02;02/08/2025;08/08/2025;6;;;FBA
+09. ECL - Nantes;ECL;;Charges sociales ;3000;15/08/2025;15/08/2025;0;Important ;;ECL
+09. ECL - Nantes;ECL;Barbanel;Capex;7320;30/07/2025;01/08/2025;2;;;ECL
+09. ECL - Nantes;ECL;;Salaires ;5000;27/07/2025;25/07/2025;-2;Bloquant ;;ECL
+09. FBA - Rouen;FBA;Actif agencement ;Capex;9821,16;01/08/2025;08/08/2025;7;;;FBA
+09. FBA - Rouen;FBA;Bi Plans ;Capex;9600;01/08/2025;08/08/2025;7;;;FBA
+09. GF;GF;;Charges sociales ;32000;16/08/2025;15/08/2025;-1;Important ;;GF
+09. GF;GF;;Loyer ;29630;01/08/2025;01/08/2025;0;Important ;;GF
+09. GF;GF;;Loyer ;29630;05/09/2025;05/09/2025;0;Important ;;GF
+09. GF;GF;;Salaires ;53000;27/07/2025;25/07/2025;-2;Bloquant ;;GF
+09. SPA - Val d'Europe;SP;GDL ;CAPEX;105000;21/05/2025;01/08/2025;72;Important ;;SP
+09. SPA - Val d'Europe;SP;Megazone;CAPEX;39180;15/04/2025;01/08/2025;108;Faible ;;SP
+09. SPA - Val d'Europe;SP;;Charges sociales ;29000;16/08/2025;15/08/2025;-1;Important ;;SP
+09. SPA - Val d'Europe;SP;;Salaires ;51000;27/07/2025;25/07/2025;-2;Bloquant ;;SP
+10. ECL - Marseille ;ECL;PROMO SOL;CAPEX;21636,31;25/08/2025;22/08/2025;;Important ;;ECL
+10. FBA - Toulouse;FBA;;Charges sociales ;5000;16/08/2025;15/08/2025;-1;Important ;;FBA
+10. FBA - Toulouse;FBA;Monnaie de Paris ;Opex;5460;31/07/02025;01/08/2025;;;;FBA
+10. FBA - Toulouse;FBA;;Salaires ;9500;27/07/2025;25/07/2025;-2;Bloquant ;;FBA
+10. GF -Park;GF;;Charges sociales ;7500;16/08/2025;15/08/2025;-1;Important ;;GF
+10. GF -Park;GF;;Loyer ;12000;01/08/2025;01/08/2025;0;Important ;;GF
+10. GF -Park;GF;;Loyer ;12000;05/09/2025;05/09/2025;0;Important ;;GF
+10. GF -Park;GF;;Salaires ;12000;27/07/2025;25/07/2025;-2;Bloquant ;;GF
+10. SPA - SP Holding;SP;;Charges sociales ;18500;16/08/2025;15/08/2025;-1;Important ;;SP
+10. SPA - SP Holding;SP;;Earn Out GF Salaise ;300000;07/07/2025;01/08/2025;25;Important ;;SP
+10. SPA - SP Holding;SP;;Earn Out GFs;1436000;30/06/2025;01/08/2025;32;Important ;Négocié 1 mois;SP
+10. SPA - SP Holding;SP;Mazars ;Honos ;8078,4;05/04/2025;01/08/2025;118;Faible ;;SP
+10. SPA - SP Holding;SP;Efic ;Marketing offline;5670;26/03/2025;25/07/2025;121;Faible ;;SP
+10. SPA - SP Holding;SP;;Salaires ;18500;27/07/2025;25/07/2025;-2;Bloquant ;;SP
+10. SPA - SP Holding;SP;Acompte IS GF Salaise - David J;Impots ;181209;15/06/2025;01/08/2025;47;Faible ;;SP
+11. FBA - Holding;FBA;;Charges sociales ;8000;16/08/2025;15/08/2025;-1;Important ;;FBA
+11. FBA - Holding;FBA;One dry nugget ;Marketing offline;5184;01/07/2025;25/07/2025;;;;FBA
+11. FBA - Holding;FBA;Eliade ;Licence Microsoft ;5362,2;12/07/2025;01/08/2025;20;Faible ;;FBA
+11. FBA - Holding;FBA;Eliade ;Migration informatique;5400;04/07/2025;25/07/2025;21;Faible ;;FBA
+11. FBA - Holding;FBA;Altiplano;R&D;12000;31/12/2024;08/08/2025;220;Faible ;Peut encore décaler;FBA
+11. FBA - Holding;FBA;;Salaires ;11500;27/07/2025;25/07/2025;-2;Bloquant ;;FBA
+11. GF - 3;GF;;Charges sociales ;19000;16/08/2025;15/08/2025;-1;Important ;;GF
+11. GF - 3;GF;;Loyer ;27000;01/08/2025;01/08/2025;0;Important ;;GF
+11. GF - 3;GF;;Loyer ;27000;05/09/2025;05/09/2025;0;Important ;;GF
+11. GF - 3;GF;;Salaires ;31000;27/07/2025;25/07/2025;-2;Bloquant ;;GF
+12. ECL - Lille;ECL;PROMO SOL;CAPEX;16452;24/07/2025;08/08/2025;15;Important ;;ECL
+12. ECL - Lille;ECL;PROMO SOL;CAPEX;20052;24/07/2025;25/07/2025;1;Important ;;ECL
+12. ECL - Lille;ECL;PROMO SOL;CAPEX;9612;24/07/2025;25/07/2025;1;Important ;;ECL
+12. ECL - Lille;ECL;PROMO SOL;CAPEX;15372;24/07/2025;25/07/2025;1;Important ;;ECL
+12. ECL - Lille;ECL;Bi Plans ;CAPEX;10800;24/07/2025;25/07/2025;1;Important ;;ECL
+12. ECL - Lille;ECL;TD Synnex ;CAPEX;100000;30/07/2025;01/08/2025;2;Important ;;ECL
+12. FBA - Epagny;FBA;Altiplano;CAPEX;10789,51;17/07/2025;25/07/2025;8;Faible ;;FBA
+12. FBA - Epagny;FBA;;Charges sociales ;5500;16/08/2025;15/08/2025;-1;Important ;;FBA
+12. FBA - Epagny;FBA;SCI Kiwi;Loyer ;16422,84667;01/07/2025;08/08/2025;38;Faible ;;FBA
+12. FBA - Epagny;FBA;SCI Kiwi;Loyer ;16422,84667;01/07/2025;05/09/2025;66;Faible ;;FBA
+12. FBA - Epagny;FBA;;Salaires ;10000;27/08/2025;22/08/2025;-5;Bloquant ;;FBA
+12. GF - 21800;GF;;Charges sociales ;16500;16/08/2025;15/08/2025;-1;Important ;;GF
+12. GF - 21800;GF;;Loyer ;24000;01/08/2025;01/08/2025;0;Important ;;GF
+12. GF - 21800;GF;;Loyer ;24000;05/09/2025;05/09/2025;0;Important ;;GF
+12. GF - 21800;GF;;Salaires ;24500;27/07/2025;25/07/2025;-2;Bloquant ;;GF
+12. SPA - Aubergenville (X3);SP;Bi Plans ;CAPEX;12000;05/05/2025;25/07/2025;81;Important;;SP
+13. FBA - Marseille (X7);FBA;Easing ;CAPEX;22860,07;24/07/2025;08/08/2025;15;Important ;;FBA
+13. FBA - Marseille (X7);FBA;Easing ;CAPEX;8942,27;24/07/2025;08/08/2025;15;Important ;;FBA
+13. FBA - Marseille (X7);FBA;Easing ;CAPEX;21960,01;24/07/2025;08/08/2025;15;Important ;;FBA
+13. FBA - Marseille (X7);FBA;Easing ;CAPEX;12216,3;24/07/2025;08/08/2025;15;Important ;;FBA
+13. FBA - Marseille (X7);FBA;Avista;CAPEX;14148;13/06/2025;25/07/2025;42;Faible ;;FBA
+13. FBA - Marseille (X7);FBA;Easing ;CAPEX;30480;06/06/2025;25/07/2025;49;Faible ;;FBA
+13. FBA - Marseille (X7);FBA;Easing ;CAPEX;47692,08;06/06/2025;25/07/2025;49;Faible ;;FBA
+13. FBA - Marseille (X7);FBA;Holight ;CAPEX;12047,83;30/07/2025;08/08/2025;9;Faible ;;FBA
+13. FBA - Marseille (X7);FBA;Altiplano ;CAPEX;174688,38;20/07/2025;15/08/2025;26;Faible ;;FBA
+13. FBA - Marseille (X7);FBA;Altiplano ;CAPEX;174688,38;04/08/2025;01/08/2025;-3;Faible ;;FBA
+13. FBA - Marseille (X7);FBA;Wee technology;CAPEX;13443,18;06/06/2025;25/07/2025;49;Important ;Solde / pas sur spendesk ;FBA
+13. FBA - Marseille (X7);FBA;Oiko gestion ;Loyer ;20901,7;01/07/2025;08/08/2025;38;Important ;;FBA
+13. FBA - Marseille (X7);FBA;Oiko gestion ;Loyer ;20901,7;01/07/2025;05/09/2025;66;Important ;;FBA
+13. GF - 25;GF;;Charges sociales ;18000;16/08/2025;15/08/2025;-1;Important ;;GF
+13. GF - 25;GF;;Loyer ;30000;01/08/2025;01/08/2025;0;Important ;;GF
+13. GF - 25;GF;;Loyer ;30000;05/09/2025;05/09/2025;0;Important ;;GF
+13. GF - 25;GF;;Salaires ;24000;27/07/2025;25/07/2025;-2;Bloquant ;;GF
+13. SPA - Cagnes-sur-Mer (X4);SP;;Loyer ;34646,33;01/07/2025;01/08/2025;31;Important ;;SP
+14. GF - Salaise ;GF;;Impots ;181000;04/08/2025;08/08/2025;0;Important ;;GF
+21 . SPA - Tours;SP;Bi plans ;CAPEX;12600;26/05/2025;25/07/2025;60;Faible ;;SP
+14. SPA - Tours (X6);SP;GDL;MOD ;5700;21/05/2025;08/08/2025;79;Faible ;;SP
+15. SPA - SP Dev;SP;Ensol;Developpement ;12000;04/07/2025;25/07/2025;21;Faible ;Avignon;SP
+15. SPA - SP Dev;SP;Arval ;Developpement ;38400;29/04/2025;01/08/2025;94;Faible ;;SP
+15. SPA - SP Dev;SP;Vinci Immo ;Developpement ;24000;27/10/2024;01/08/2025;278;Faible ;;SP
+15. SPA - SP Dev;SP;;Loyer ;149240,21;01/07/2025;01/08/2025;31;Important ;;SP
+15. SPA - SP Dev;SP;360;CAPEX;12000;23/06/2025;25/07/2025;;Important ;;SP
+15. SPA - SP Dev;SP;Arval ;Capex;19200;01/07/2025;25/07/2025;24;Important ;;SP
+15. SPA - SP Dev;SP;;Loyer ;43869,32;01/07/2025;01/08/2025;31;Important ;;SP
+16. SPA - Servon;SP;Brain;CAPEX;22260;04/06/2025;01/08/2025;58;non validé sur Spend par CM - en attente Edouard;;SP
+16. SPA - Servon;SP;Plast it;CAPEX;8460;14/05/2025;01/08/2025;79;non validé sur Spend par CM - en attente Edouard;;SP
+16. SPA - Servon;SP;Bowltech;CAPEX;7399,7;01/05/2025;01/08/2025;92;non validé sur Spend par CM - en attente Edouard;;SP
+16. SPA - Servon;SP;;Charges sociales ;17000;16/08/2025;15/08/2025;-1;Important ;;SP
+16. SPA - Servon;SP;;Loyer ;37760,79;01/07/2025;08/08/2025;38;Important ;Prlv / Cpte non provisionné;SP
+16. SPA - Servon;SP;;Loyer ;37760,79;01/07/2025;05/09/2025;66;Important ;Prlv / Cpte non provisionné;SP
+16. SPA - Servon;SP;;Salaires ;31000;27/07/2025;25/07/2025;-2;Bloquant ;;SP
+17. SPA - Imagi Park;SP;;Charges sociales ;12000;16/08/2025;15/08/2025;-1;Important ;;SP
+17. SPA - Imagi Park;SP;;Salaires ;40000;27/07/2025;25/07/2025;-2;Bloquant ;;SP
+18 . SPA - Topco;SP;Eurazeo;Interets;3700000;30/06/2025;25/07/2025;25;Bloquant ;Négocié 1 mois;SP
+19 . SPA - Vitrolles (X5°;SP;GDL ;MOD ;5700;21/05/2025;25/07/2025;65;Faible ;;SP
+19. ECL - ES HOUSE ;ECL;ASJ Ingeniera ;CAPEX;8031,38;02/06/2025;25/07/2025;53;Faible ;On peut surement décaller une semaine de plus;ECL
+19. ECL - ES HOUSE ;ECL;Small;CAPEX;7166;13/06/2025;25/07/2025;42;Faible ;;ECL
+19. ECL - ES HOUSE ;ECL;Small;CAPEX;7684,4;15/07/2025;25/07/2025;10;Faible ;;ECL
+19. ECL - ES HOUSE ;ECL;Pressing ;CAPEX;21849;20/05/2025;25/07/2025;66;Important ;;ECL
+19. ECL - ES HOUSE ;ECL;ASJ ;CAPEX;16336,06;15/07/2025;25/07/2025;10;Important ;;ECL
+19. ECL - ES HOUSE ;ECL;KORDAN;CAPEX;109219,4;15/07/2025;25/07/2025;10;Important ;;ECL
+19. ECL - ES HOUSE ;ECL;NAAR ;CAPEX;79409,6;15/07/2025;25/07/2025;10;Important ;;ECL
+19. ECL - ES HOUSE ;ECL;AREA 2;CAPEX;73352,45;15/07/2025;25/07/2025;10;Important ;;ECL
+19. ECL - ES HOUSE ;ECL ;;Salaires ;22000;20/08/2025;22/08/2025;2;Bloquant ;;ECL
+09. KO Messancy ;KJU;Play Company ;Capex;130000;30/06/2025;25/07/2025;25;;;KJU 
+08. KO Mini Waterloo;KJU;Cheer amusement ;Capex;40000;30/06/2025;25/07/2025;25;;;KJU 
+05. KO Group ;KJU;Samurai ;Capex;31800;30/06/2025;25/07/2025;25;;;KJU 
+05. KO Group ;KJU;CC Fabien ;Compte courant Fabien KJU;50000;30/06/2025;25/07/2025;25;;;KJU 
+11. KO VDE;KJU;Pelissier ;Capex;36000;30/06/2025;25/07/2025;25;;;KJU 
+11. KO VDE;KJU;Aeroclim;Capex;16800;30/06/2025;25/07/2025;25;;;KJU 
+20 . SPA - Henin Bowl 62;SP;Declerck;CAPEX;45360;17/07/2025;01/08/2025;15;;;SP
+20 . SPA - Henin Bowl 62;SP;XPLOSE;CAPEX;11280;16/06/2025;25/07/2025;39;Faible ;;SP
+20 . SPA - Henin Bowl 62;SP;Aeroclim;CAPEX;13289,58;25/05/2025;01/08/2025;68;Faible ;;SP
+20 . SPA - Henin Bowl 62;SP;Oliveira Fernandes ;CAPEX;12585,02;27/06/2025;01/08/2025;35;Faible ;;SP
+20 . SPA - Henin Bowl 62;SP;Oliveira Fernandes ;CAPEX;17903,52;27/06/2025;01/08/2025;35;Faible ;;SP
+20 . SPA - Henin Bowl 62;SP;Delta Security ;CAPEX;7920;28/06/2025;01/08/2025;34;Faible ;;SP
+20 . SPA - Henin Bowl 62;SP;Ouvrages Eco ;CAPEX;96150,39;09/07/2025;01/08/2025;23;Faible ;;SP
+20 . SPA - Henin Bowl 62;SP;BFE DESIGN;Capex;86149,56;15/08/2025;15/08/2025;0;;;SP
+20 . SPA - Henin Bowl 62;SP;Ouvrages Eco ;CAPEX;11490;09/07/2025;01/08/2025;23;Faible ;;SP
+20 . SPA - Henin Bowl 62;SP;501 Entertainment ;CAPEX;20000;26/06/2025;01/08/2025;36;Faible ;;SP
+20 . SPA - Henin Bowl 62;SP;Bowling Cite Europe ;CAPEX;12859,2;19/05/2025;25/07/2025;67;Important ;;SP
+20 . SPA - Henin Bowl 62;SP;LN2J;Capex;39204;07/07/2025;25/07/2025;18;Important ;;SP
+20 . SPA - Henin Bowl 62;SP;Oliveira Fernandes ;Capex;12962,9;26/06/2025;25/07/2025;29;Important ;;SP
+20 . SPA - Henin Bowl 62;SP;XPLOSE IN EAR;Capex;10884,96;07/07/2025;25/07/2025;18;;;SP
+20 . SPA - Henin Bowl 62;SP;Declerck;CAPEX;9000;17/07/2025;25/07/2025;8;Important ;;SP
+20 . SPA - Henin Bowl 62;SP;Declerck;CAPEX;36000;17/07/2025;01/08/2025;15;Faible ;;SP
+20 . SPA - Henin Bowl 62;SP;Oliveira Fernandes ;Capex;7341,26;08/08/2025;08/08/2025;0;;;SP
+20 . SPA - Henin Bowl 62;SP;Oliveira Fernandes ;Capex;12962,9;12/08/2025;15/08/2025;3;;;SP
+20 . SPA - Henin Bowl 62;SP;LN2J;Capex;29403;11/08/2025;15/08/2025;4;Important ;;SP
+20 . SPA - Henin Bowl 62;SP;;Charges sociales ;17000;16/08/2025;15/08/2025;-1;Important ;;SP
+20 . SPA - Henin Bowl 62;SP;Foncière d'Hénin;Loyer ;71811,51667;01/07/2025;25/07/2025;24;Important ;;SP
+20 . SPA - Henin Bowl 62;SP;Foncière d'Hénin;Loyer ;71811,51667;01/07/2025;08/08/2025;38;Important ;;SP
+20 . SPA - Henin Bowl 62;SP;Foncière d'Hénin;Loyer ;71811,51667;01/07/2025;05/09/2025;66;Important ;;SP
+20 . SPA - Henin Bowl 62;SP;;Salaires ;33000;27/07/2025;25/07/2025;-2;Bloquant ;;SP
+20. ECL - Sevilla ;ECL;OZUP;Merch ;7035;25/07/2025;25/07/2025;0;;;ECL
+HAD - Hadrena;OLC;Hadrena Jump France ;Acquisition Upper Avenue ;320000;;01/08/2025;;Bloquant ;;OLC
+HAD - Hadrena;OLC;;Charges sociales ;350000;15/08/2025;15/08/2025;0;Important ;;OLC
+HAD - Hadrena;OLC;;Charges sociales ;370000;16/08/2025;15/08/2025;-1;Important ;;OLC
+HAD - Hadrena;OLC;;Charges sociales ;162800;16/08/2025;15/08/2025;-1;Important ;;OLC
+HAD - Hadrena;OLC;Sonnar;Honos ;18000;15/07/2025;25/07/2025;;;;OLC
+HAD - Hadrena;OLC;Ferber;Expenses - M&A fees;5533,65;28/04/2025;25/07/2025;88;Faible ;;OLC
+HAD - Hadrena;OLC;;Fees acquisition Upper Avenue ;100000;;15/08/2025;;Important ;;OLC
+HAD - Hadrena;OLC;Visconti;Honos ;4200;31/03/2025;25/07/2025;116;Important ;;OLC
+HAD - Hadrena;OLC;Otium Management ;Loyer ;28500;05/05/2025;05/09/2025;123;Faible ;;OLC
+HAD - Hadrena;OLC;Otium Management ;Loyer ;28500;02/06/2025;05/09/2025;95;Faible ;;OLC
+HAD - Hadrena;OLC;Otium Management ;Loyer ;28500;01/04/2025;05/09/2025;157;Faible ;;OLC
+HAD - Hadrena;OLC;Otium Management ;Loyer ;28500;04/03/2025;05/09/2025;185;Faible ;;OLC
+HAD - Hadrena;OLC;Thomas Lecompte;Honos ;6600;01/08/2025;01/08/2025;0;;;OLC
+HAD - Hadrena;OLC;Gaspard Randon;Honos ;12000;23/07/2025;25/07/2025;2;Important ;;OLC
+HAD - Hadrena;OLC;Lamartine ;Honos ;13500;12/06/2025;01/08/2025;50;Faible ;;OLC
+HAD - Hadrena;OLC;Efic ;Marketing offline;19423,31;12/07/2025;25/07/2025;13;Faible ;;OLC
+HAD - Hadrena;OLC;Social Club ;Marketing offline;6870;24/07/2025;25/07/2025;1;Faible ;;OLC
+HAD - Hadrena;OLC;Conductr;CAPEX;11700;23/07/2025;08/08/2025;16;Faible ;;OLC
+HAD - Hadrena;OLC;Conductr;Capex;11700;23/07/2025;25/07/2025;2;;;OLC
+HAD - Hadrena;OLC;Revolutionr;Marketing offline;6000;03/07/2025;25/07/2025;22;Faible ;;OLC
+HAD - Hadrena;OLC;Apogea ;Projet Sage ;7200;30/04/2025;01/08/2025;93;Faible ;On peut grater un peu;OLC
+HAD - Hadrena;OLC;Apogea ;Projet Sage ;8296,2;30/06/2025;01/08/2025;32;Faible ;On peut grater un peu;OLC
+HAD - Hadrena;OLC;Apogea ;Projet Sage ;10830;30/06/2025;01/08/2025;32;Faible ;On peut grater un peu;OLC
+HAD - Hadrena;OLC;Apogea ;Projet Sage ;5070;30/06/2025;01/08/2025;32;Faible ;On peut grater un peu;OLC
+HAD - Hadrena;OLC;Apogea ;Projet Sage ;9125,82;30/05/2025;01/08/2025;63;Faible ;On peut grater un peu;OLC
+HAD - Hadrena;OLC;;Salaires ;180000;27/07/2025;25/07/2025;-2;Bloquan ;;OLC
+HAD - Hadrena;OLC;Declerck ;Travaux SIEC;6738;16/07/2025;01/08/2025;16;Faible ;;OLC
+OCI - Otium City;OLC;ARTEK ;CAPEX;22794,42;06/02/2025;25/07/2025;169;Faible ;;OLC
+OCI - Otium City;OLC;DANIEL ;CAPEX;34876,85;31/05/2025;25/07/2025;55;Faible ;;OLC
+OCI - Otium City;OLC;FTE ;CAPEX;15696;28/03/2025;25/07/2025;119;Faible ;;OLC
+OCI - Otium City;OLC;MTE;CAPEX;22332,72;29/06/2025;01/08/2025;33;Faible ;;OLC
+OCI - Otium City;OLC;Rehlko ;CAPEX;5012,52;30/06/2025;01/08/2025;32;Faible ;;OLC
+OCI - Otium City;OLC;ENEDIS ;CAPEX;7297,74;29/05/2025;15/08/2025;78;Faible ;;OLC
+OCI - Otium City;OLC;ATC ;CAPEX;26400;25/07/2025;08/08/2025;14;;;OLC
+OCI - Otium City;OLC;Ephemera ;Opex;18720;02/08/2025;08/08/2025;6;;;OLC
+OCI - Otium City;OLC;ARTEK ;CAPEX;9094,13;07/08/2025;15/08/2025;8;;;OLC
+OCI - Otium City;OLC;Sovilec ;CAPEX;8796,24;09/08/2025;15/08/2025;6;;;OLC
+OCI - Otium City;OLC;Sagimeca;CAPEX;7798,2;29/05/2025;15/08/2025;78;Faible ;;OLC
+OCI - Otium City;OLC;Pelissier;CAPEX;28342,87;27/06/2025;25/07/2025;28;Faible ;;OLC
+OCI - Otium City;OLC;Pelissier;CAPEX;7638;27/06/2025;25/07/2025;28;Faible ;;OLC
+OCI - Otium City;OLC;Legendry;CAPEX;34153,85;31/07/2025;15/08/2025;15;Faible ;;OLC
+OCI - Otium City;OLC;Secovalde ;Loyer ;165264,86;01/08/2025;01/08/2025;0;Important ;Prlv;OLC
+OCI - Otium City;OLC;Event Imagipark ;Marketing offline;17000;30/07/2025;01/08/2025;2;Important ;;OLC
+OCI - Otium City;OLC;Event Imagipark ;Marketing offline;13000;31/07/2025;01/08/2025;1;Bloquant ;;OLC
